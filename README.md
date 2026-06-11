@@ -42,7 +42,6 @@ Backend engineer at Novo building card and banking systems. I work across credit
 ## Accomplishments
 
 - **Published [Deep Thinking](https://github.com/amankr-novo/deep-thinking) skill on [clawhub.ai](https://clawhub.ai)** — Structured reasoning framework for complex, multi-step tasks. See [here](https://clawhub.ai/amankr-novo/deep-thinking)
-- **Raised [PR #151](https://github.com/travisvn/awesome-claude-skills/pull/151) into [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)** — Added Deep Thinking skill to the community list.
 
 ---
 
